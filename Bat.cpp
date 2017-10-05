@@ -3,6 +3,11 @@
 #include "Bat.h"
 Bat::Bat(){}
 
+
+//testtt nicegit hub
+
+
+
 std::string Bat::getName()const{
 	return "Bat";
 }
